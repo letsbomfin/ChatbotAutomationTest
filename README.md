@@ -23,7 +23,7 @@ Para alterar esse comportamento, as alterações serão feitas em GlobalSetup
 [OneTimeSetUp] e OneTimeTearDown]
 
 #PageObjects
-- As classes devem ser criadas dentro do foder.
+- As classes devem ser criadas dentro do folder.
 - PageBase: podem ser acrescentados métodos que são comuns a todos os testes.
 - Contém os 'TestCases' do bot.
 
